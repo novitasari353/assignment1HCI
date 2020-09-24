@@ -20,5 +20,5 @@ https://github.com/novitasari353/assignment1HCI/blob/master/Doc%20incident%20pas
   
 Perubahan ini membuat baut pada Box Girder lantai empat menopang berat kedua selasar sehingga dengan begitu banyak orang di selasar pada malam itu, beban pada selasar terlalu besar dan menyebabkan ambruk.
  
-Berikut link mockup improvement dari kami:
+### Berikut link mockup improvement dari kami:
 https://github.com/novitasari353/assignment1HCI/blob/master/Doc%20incident%20past%20record/desain%20hyatt%20hotel.jpg
